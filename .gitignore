@@ -1,1 +1,4 @@
 *.out
+*.bak
+/html
+/latex
